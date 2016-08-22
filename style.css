@@ -3,7 +3,6 @@ html {
 }
 
 #face {
-    display: relative;
     margin-right: 50px;
     margin-left: 50px;
     margin-top: 60px;
@@ -78,3 +77,4 @@ a:hover, a:active {
     padding:30px;
     margin-right: 20px;
     margin-left: 20px;
+}
