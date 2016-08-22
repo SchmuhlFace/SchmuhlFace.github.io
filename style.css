@@ -13,14 +13,14 @@ html {
 
 }
 
-h1,h2 #header {
-  position: fixed;
-  top: 0px;
-  right: 0px;
-  text-align: center;
-  width: 100%;
-  background-color: white;
-  padding: 20px;  
+h1,h2 .header {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    text-align: center;
+    width: 100%;  
+    background-color: white;
+    padding: 20px;  
  
 }
 
@@ -30,7 +30,7 @@ h1,h2 #header {
     margin-left:15%; 
     margin-right:15%;
     margin-bottom: 2%;
-  background-image: url(images/dots.jpg)
+    background-image: url(images/dots.jpg)
 
 }
 
@@ -47,7 +47,7 @@ h1,h2 #header {
 
 
 ul > li {
-  background-color: yellow;
+    background-color: yellow;
 
 }
 
