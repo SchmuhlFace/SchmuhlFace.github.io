@@ -1,8 +1,9 @@
 console.log("THe script is running!");
 
-function addRedBorder(event) {
+function addRedBorder() {
   image.style.border = "4px solid red";
 }
 
 var image = document.getElementById("face");
-image.addEventListener("click", addRedBorder);
+// image.addEventListener("click", addRedBorder);
+addRedBorder();
