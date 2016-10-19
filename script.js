@@ -7,4 +7,4 @@ function addRedBorder(event) {
 var image = document.getElementById("face");
 image.addEventListener("click", addRedBorder);
 
-//having issues pushing this repo to GH. Trying again!
+//Trying to push this repo and having major issues
